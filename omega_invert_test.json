@@ -25,9 +25,9 @@
             "SecondaryLine": "0a0a0a"
         },
         "Battery": {
-            "": "000000",
-            "InCharge": "e861e0",
-            "Low": "66dcde"
+            "": "2a363b",
+            "InCharge": "9de0ad",
+            "Low": "e84a5"
         },
         "ScrollBar": {
             "Foreground": "b5b5b5",
@@ -39,8 +39,8 @@
             "Disabled": "616161"
         },
         "Calculation": {
-            "BackgroundOdd": "050505",
-            "BackgroundEven": "000000",
+            "BackgroundOdd": "594f4f",
+            "BackgroundEven": "2a363b",
             "EmptyBox": "3b3b3b",
             "EmptyBoxNeeded": "ff7a80",
             "TrigoAndComplexForeground": "00fff3"
