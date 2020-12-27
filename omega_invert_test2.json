@@ -71,9 +71,9 @@
             "Tangent": "a6a6a6"
         },
         "SubMenu": {
-            "Background": "ff0000",
-            "Border": "050505",
-            "Text": "ffffff"
+            "Background": "b4b5b4",
+            "Border": "b4b5b4",
+            "Text": "000000"
         },
         "Toolbox": {
             "HeaderBackground": "b4b5b4",
