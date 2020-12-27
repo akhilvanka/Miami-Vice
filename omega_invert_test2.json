@@ -110,7 +110,7 @@
             "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "b5b5b5",
+            "FirstBackground": "FF0000",
             "FirstBorder": "b5b5b5",
             "FirstText": "000000",
             "FirstVariantBackground": "b5b5b5",
