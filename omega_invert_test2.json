@@ -71,7 +71,7 @@
             "Tangent": "a6a6a6"
         },
         "SubMenu": {
-            "Background": "1f1f1f",
+            "Background": "ff0000",
             "Border": "050505",
             "Text": "ffffff"
         },
@@ -84,7 +84,7 @@
         "List": {
             "CellBackground": "2a363b",
             "CellBackgroundSelected": "2d3e43",
-            "CellBorder": "2a363b"
+            "CellBorder": "2d3e43"
         },
         "Button": {
             "Background": "191919",
