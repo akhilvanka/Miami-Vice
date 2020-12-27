@@ -82,9 +82,9 @@
             "Background": "2a363b"
         },
         "List": {
-            "CellBackground": "000000",
-            "CellBackgroundSelected": "1f1f1f",
-            "CellBorder": "121210"
+            "CellBackground": "2a363b",
+            "CellBackgroundSelected": "2d3e43",
+            "CellBorder": "2a363b"
         },
         "Button": {
             "Background": "191919",
