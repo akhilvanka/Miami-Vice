@@ -10,14 +10,14 @@
         "Background": {
             "Hard": "000000",
             "Apps": "2a363b",
-            "AppsSecondary": "0f0f0f"
+            "AppsSecondary": "ff0000"
         },
         "Toolbar": {
             "": "45ada8",
             "Text": "000000"
         },
         "ExpressionInput": {
-            "Background": "000000",
+            "Background": "2a363b",
             "Border": "262626"
         },
         "Grid": {
