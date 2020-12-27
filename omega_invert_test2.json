@@ -8,7 +8,7 @@
         "ApproximateSignText": "a6a6a6",
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
-            "Hard": "000000",
+            "Hard": "2a363b",
             "Apps": "050505",
             "AppsSecondary": "0f0f0f"
         },
@@ -17,7 +17,7 @@
             "Text": "000000"
         },
         "ExpressionInput": {
-            "Background": "FF0000",
+            "Background": "000000",
             "Border": "262626"
         },
         "Grid": {
