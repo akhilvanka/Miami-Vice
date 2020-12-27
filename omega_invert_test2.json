@@ -113,12 +113,12 @@
             "FirstBackground": "2d3e43",
             "FirstBorder": "2d3e43",
             "FirstText": "000000",
-            "FirstVariantBackground": "2d3e43",
-            "FirstVariantBorder": "2d3e43",
-            "FirstVariantText": "000000",
+            "FirstVariantBackground": "f18c8e",
+            "FirstVariantBorder": "f18c8e",
+            "FirstVariantText": "ffffff",
             "SecondBackground": "b4b5b4",
             "SecondBorder": "b4b5b4",
-            "SecondText": "ffffff"
+            "SecondText": "000000"
         },
         "Home": {
             "Background": "2a363b",
