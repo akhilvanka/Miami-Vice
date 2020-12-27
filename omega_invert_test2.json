@@ -8,7 +8,7 @@
         "ApproximateSignText": "a6a6a6",
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
-            "Hard": "2d3e43",
+            "Hard": "2a363b",
             "Apps": "2a363b",
             "AppsSecondary": "2a363b"
         },
@@ -76,10 +76,10 @@
             "Text": "ffffff"
         },
         "Toolbox": {
-            "HeaderBackground": "b5b5b5",
+            "HeaderBackground": "b4b5b4",
             "HeaderText": "000000",
-            "HeaderBorder": "b5b5b5",
-            "Background": "ffffff"
+            "HeaderBorder": "b4b5b4",
+            "Background": "2d3e43"
         },
         "List": {
             "CellBackground": "000000",
@@ -110,14 +110,14 @@
             "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "ff0000",
-            "FirstBorder": "b5b5b5",
+            "FirstBackground": "2d3e43",
+            "FirstBorder": "2d3e43",
             "FirstText": "000000",
-            "FirstVariantBackground": "b5b5b5",
-            "FirstVariantBorder": "050505",
+            "FirstVariantBackground": "2d3e43",
+            "FirstVariantBorder": "2d3e43",
             "FirstVariantText": "000000",
-            "SecondBackground": "1f1f1f",
-            "SecondBorder": "050505",
+            "SecondBackground": "b4b5b4",
+            "SecondBorder": "b4b5b4",
             "SecondText": "ffffff"
         },
         "Home": {
