@@ -71,7 +71,7 @@
             "Tangent": "a6a6a6"
         },
         "SubMenu": {
-            "Background": "b4b5b4",
+            "Background": "ff0000",
             "Border": "b4b5b4",
             "Text": "000000"
         },
@@ -116,7 +116,7 @@
             "FirstVariantBackground": "f18c8e",
             "FirstVariantBorder": "f18c8e",
             "FirstVariantText": "000000",
-            "SecondBackground": "ff0000",
+            "SecondBackground": "b4b5b4",
             "SecondBorder": "b4b5b4",
             "SecondText": "000000"
         },
