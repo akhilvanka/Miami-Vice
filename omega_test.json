@@ -13,7 +13,7 @@
             "AppsSecondary": "0f0f0f"
         },
         "Toolbar": {
-            "": "568ea6",
+            "": "fcb3b3",
             "Text": "000000"
         },
         "ExpressionInput": {
@@ -121,8 +121,8 @@
             "SecondText": "ffffff"
         },
         "Home": {
-            "Background": "305f72",
-            "CellBackground": "305f72",
+            "Background": "647277",
+            "CellBackground": "647277",
             "CellBackgroundActive": "b5b5b5",
             "CellText": "ffffff",
             "CellTextActive": "000000",
