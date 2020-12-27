@@ -9,7 +9,7 @@
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
             "Hard": "000000",
-            "Apps": "594f4f",
+            "Apps": "2a363b",
             "AppsSecondary": "2a363b"
         },
         "Toolbar": {
@@ -17,8 +17,8 @@
             "Text": "000000"
         },
         "ExpressionInput": {
-            "Background": "2a363b",
-            "Border": "262626"
+            "Background": "45ada8",
+            "Border": "45ada8"
         },
         "Grid": {
             "PrimaryLine": "262626",
