@@ -97,12 +97,12 @@
             "Text": "ffffff"
         },
         "Tab": {
-            "Background": "b4b5b4",
+            "Background": "2d3e43",
             "BackgroundSelected": "ffbabc",
             "BackgroundActive": "f18c8e",
             "BackgroundSelectedAndActive": "f18c8e",
             "Text": "000000",
-            "TextActive": "ffffff"
+            "TextActive": "000000"
         },
         "SubTab": {
             "Background": "1f1f1f",
