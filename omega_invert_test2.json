@@ -110,12 +110,12 @@
             "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "2d3e43",
-            "FirstBorder": "2d3e43",
+            "FirstBackground": "f18c8e",
+            "FirstBorder": "f18c8e",
             "FirstText": "000000",
             "FirstVariantBackground": "f18c8e",
             "FirstVariantBorder": "f18c8e",
-            "FirstVariantText": "ffffff",
+            "FirstVariantText": "000000",
             "SecondBackground": "b4b5b4",
             "SecondBorder": "b4b5b4",
             "SecondText": "000000"
