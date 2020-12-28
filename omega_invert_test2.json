@@ -84,7 +84,7 @@
         "List": {
             "CellBackground": "2a363b",
             "CellBackgroundSelected": "2d3e43",
-            "CellBorder": "2a363b"
+            "CellBorder": "ff0000"
         },
         "Button": {
             "Background": "2a363b",
