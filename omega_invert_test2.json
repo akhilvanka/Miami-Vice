@@ -87,10 +87,10 @@
             "CellBorder": "2d3e43"
         },
         "Button": {
-            "Background": "f18c8e",
-            "BackgroundSelected": "d48284",
+            "Background": "b4b5b4",
+            "BackgroundSelected": "2e474b",
             "BackgroundSelectedHighContrast": "ff4d4f",
-            "Border": "d48284",
+            "Border": "2e474b",
             "RowBorder": "b4b5b4",
             "BorderOut": "2e474b",
             "Shadow": "ffc7cc",
@@ -105,7 +105,7 @@
             "TextActive": "000000"
         },
         "SubTab": {
-            "Background": "f18c8e",
+            "Background": "b4b5b4",
             "BackgroundSelected": "2e474b",
             "Text": "000000"
         },
