@@ -87,11 +87,11 @@
             "CellBorder": "2d3e43"
         },
         "Button": {
-            "Background": "b4b5b4",
-            "BackgroundSelected": "363636",
+            "Background": "f18c8e",
+            "BackgroundSelected": "d48284",
             "BackgroundSelectedHighContrast": "ff4d4f",
-            "Border": "525252",
-            "RowBorder": "262626",
+            "Border": "d48284",
+            "RowBorder": "2a363b",
             "BorderOut": "2e474b",
             "Shadow": "ffc7cc",
             "Text": "ffffff"
