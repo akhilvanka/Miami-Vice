@@ -62,13 +62,13 @@
             "HistogramBar": "262626"
         },
         "Statistics": {
-            "Box": "ff7a80",
-            "BoxVerticalLine": "262626",
-            "Selected": "ff7a80",
-            "NotSelected": "0a0a0a"
+            "Box": "f18c8e",
+            "BoxVerticalLine": "2d3e43",
+            "Selected": "f18c8e",
+            "NotSelected": "ffbabc"
         },
         "Graph": {
-            "Tangent": "a6a6a6"
+            "Tangent": "b3b3b3"
         },
         "SubMenu": {
             "Background": "2d3e43",
@@ -91,10 +91,10 @@
             "BackgroundSelected": "f18c8e",
             "BackgroundSelectedHighContrast": "ff4d4f",
             "Border": "f18c8e",
-            "RowBorder": "383838",
+            "RowBorder": "2e474b",
             "BorderOut": "2e474b",
             "Shadow": "383838",
-            "Text": "ffffff"
+            "Text": "000000"
         },
         "Tab": {
             "Background": "b4b5b4",
