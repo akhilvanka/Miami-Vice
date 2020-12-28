@@ -88,9 +88,9 @@
         },
         "Button": {
             "Background": "b4b5b4",
-            "BackgroundSelected": "2e474b",
+            "BackgroundSelected": "f18c8e",
             "BackgroundSelectedHighContrast": "ff4d4f",
-            "Border": "2e474b",
+            "Border": "f18c8e",
             "RowBorder": "b4b5b4",
             "BorderOut": "2e474b",
             "Shadow": "ffc7cc",
@@ -106,7 +106,7 @@
         },
         "SubTab": {
             "Background": "b4b5b4",
-            "BackgroundSelected": "2e474b",
+            "BackgroundSelected": "f18c8e",
             "Text": "000000"
         },
         "Banner": {
