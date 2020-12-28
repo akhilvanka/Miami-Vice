@@ -72,7 +72,7 @@
         },
         "SubMenu": {
             "Background": "2d3e43",
-            "Border": "2d3e43",
+            "Border": "2e474b",
             "Text": "ffffff"
         },
         "Toolbox": {
@@ -99,7 +99,7 @@
         "Tab": {
             "Background": "2d3e43",
             "BackgroundSelected": "ffbabc",
-            "BackgroundActive": "f18c8e",
+            "BackgroundActive": "2e474b",
             "BackgroundSelectedAndActive": "f18c8e",
             "Text": "000000",
             "TextActive": "000000"
