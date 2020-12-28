@@ -1,6 +1,6 @@
 {
-    "name": "Omega Invert",
-    "icons": "omega_invert",
+    "name": "Miami Vice",
+    "icons": "miami_vice",
     "colors": {
         "PrimaryText": "ffffff",
         "SecondaryText": "919191",
@@ -8,21 +8,21 @@
         "ApproximateSignText": "a6a6a6",
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
-            "Hard": "000000",
-            "Apps": "050505",
-            "AppsSecondary": "0f0f0f"
+            "Hard": "2d3e43",
+            "Apps": "2a363b",
+            "AppsSecondary": "2e474b"
         },
         "Toolbar": {
             "": "45ada8",
             "Text": "000000"
         },
         "ExpressionInput": {
-            "Background": "1f1f1f",
-            "Border": "262626"
+            "Background": "45ada8",
+            "Border": "45ada8"
         },
         "Grid": {
             "PrimaryLine": "262626",
-            "SecondaryLine": "0a0a0a"
+            "SecondaryLine": "2e474b"
         },
         "Battery": {
             "": "2a363b",
@@ -39,14 +39,14 @@
             "Disabled": "616161"
         },
         "Calculation": {
-            "BackgroundOdd": "594f4f",
+            "BackgroundOdd": "2e474b",
             "BackgroundEven": "2a363b",
             "EmptyBox": "3b3b3b",
             "EmptyBoxNeeded": "ff7a80",
             "TrigoAndComplexForeground": "00fff3"
         },
         "Code": {
-            "Background": "000000",
+            "Background": "2a363b",
             "BackgroundSelected": "1f1f1f",
             "Text": "ffffff",
             "Comment": "666677",
@@ -57,68 +57,68 @@
             "GutterViewBackground": "1b1918"
         },
         "Probability": {
-            "Curve": "ff7a80",
-            "CellBorder": "131313",
-            "HistogramBar": "262626"
+            "Curve": "f18c8e",
+            "CellBorder": "2d3e43",
+            "HistogramBar": "b4b5b4"
         },
         "Statistics": {
-            "Box": "ff7a80",
-            "BoxVerticalLine": "262626",
-            "Selected": "ff7a80",
-            "NotSelected": "0a0a0a"
+            "Box": "f18c8e",
+            "BoxVerticalLine": "2d3e43",
+            "Selected": "f18c8e",
+            "NotSelected": "ffbabc"
         },
         "Graph": {
-            "Tangent": "a6a6a6"
+            "Tangent": "b3b3b3"
         },
         "SubMenu": {
-            "Background": "1f1f1f",
-            "Border": "050505",
+            "Background": "2d3e43",
+            "Border": "2e474b",
             "Text": "ffffff"
         },
         "Toolbox": {
-            "HeaderBackground": "b5b5b5",
+            "HeaderBackground": "b4b5b4",
             "HeaderText": "000000",
-            "HeaderBorder": "b5b5b5",
-            "Background": "ffffff"
+            "HeaderBorder": "b4b5b4",
+            "Background": "2a363b"
         },
         "List": {
-            "CellBackground": "000000",
-            "CellBackgroundSelected": "1f1f1f",
-            "CellBorder": "121210"
+            "CellBackground": "2a363b",
+            "CellBackgroundSelected": "2e474b",
+            "CellBorder": "2d3e43"
         },
         "Button": {
-            "Background": "191919",
-            "BackgroundSelected": "363636",
+            "Background": "b4b5b4",
+            "BackgroundSelected": "f18c8e",
             "BackgroundSelectedHighContrast": "ff4d4f",
-            "Border": "525252",
-            "RowBorder": "262626",
-            "BorderOut": "0a0a0a",
-            "Shadow": "ffc7cc",
-            "Text": "ffffff"
+            "Border": "f18c8e",
+            "RowBorder": "2e474b",
+            "BorderOut": "2e474b",
+            "Shadow": "b4b5b4",
+            "Text": "000000"
         },
         "Tab": {
-            "Background": "b5b5b5",
-            "BackgroundSelected": "8a8a8a",
-            "BackgroundActive": "050505",
-            "BackgroundSelectedAndActive": "1c1c1c",
+            "Background": "b4b5b4",
+            "BackgroundSelected": "ffbabc",
+            "BackgroundActive": "f18c8e",
+            "BackgroundSelectedAndActive": "d48284",
             "Text": "000000",
-            "TextActive": "ffffff"
+            "TextActive": "000000"
         },
         "SubTab": {
-            "Background": "1f1f1f",
-            "BackgroundSelected": "2e2e2e",
+            "Background": "b4b5b4",
+            "BackgroundSelected": "f18c8e",
             "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "b5b5b5",
-            "FirstBorder": "b5b5b5",
+            "FirstBackground": "f18c8e",
+            "FirstBorder": "f18c8e",
             "FirstText": "000000",
-            "FirstVariantBackground": "b5b5b5",
-            "FirstVariantBorder": "050505",
+            "FirstVariantBackground": "f18c8e",
+            "FirstVariantBorder": "f18c8e",
             "FirstVariantText": "000000",
-            "SecondBackground": "1f1f1f",
-            "SecondBorder": "050505",
-            "SecondText": "ffffff"
+            "SecondBackground": "b4b5b4",
+            "SecondBorder": "b4b5b4",
+            "SecondText": "000000"
         },
         "Home": {
             "Background": "2a363b",
