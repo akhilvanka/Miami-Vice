@@ -92,7 +92,7 @@
             "BackgroundSelectedHighContrast": "ff4d4f",
             "Border": "525252",
             "RowBorder": "262626",
-            "BorderOut": "0a0a0a",
+            "BorderOut": "ff0000",
             "Shadow": "ffc7cc",
             "Text": "ffffff"
         },
