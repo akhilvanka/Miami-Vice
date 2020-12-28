@@ -87,7 +87,7 @@
             "CellBorder": "2a363b"
         },
         "Button": {
-            "Background": "191919",
+            "Background": "2a363b",
             "BackgroundSelected": "363636",
             "BackgroundSelectedHighContrast": "ff4d4f",
             "Border": "525252",
