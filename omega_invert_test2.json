@@ -84,7 +84,7 @@
         "List": {
             "CellBackground": "2a363b",
             "CellBackgroundSelected": "2d3e43",
-            "CellBorder": "2e474b"
+            "CellBorder": "2d3e43"
         },
         "Button": {
             "Background": "2a363b",
@@ -92,7 +92,7 @@
             "BackgroundSelectedHighContrast": "ff4d4f",
             "Border": "525252",
             "RowBorder": "262626",
-            "BorderOut": "f18c8e",
+            "BorderOut": "2e474b",
             "Shadow": "ffc7cc",
             "Text": "ffffff"
         },
