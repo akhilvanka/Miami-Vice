@@ -97,10 +97,10 @@
             "Text": "ffffff"
         },
         "Tab": {
-            "Background": "2d3e43",
+            "Background": "f18c8e",
             "BackgroundSelected": "ffbabc",
             "BackgroundActive": "2e474b",
-            "BackgroundSelectedAndActive": "f18c8e",
+            "BackgroundSelectedAndActive": "2d3e43",
             "Text": "000000",
             "TextActive": "000000"
         },
