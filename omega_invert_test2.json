@@ -91,10 +91,10 @@
             "BackgroundSelected": "f18c8e",
             "BackgroundSelectedHighContrast": "ff4d4f",
             "Border": "f18c8e",
-            "RowBorder": "2e474b",
+            "RowBorder": "383838",
             "BorderOut": "2e474b",
-            "Shadow": "ffc7cc",
-            "Text": "000000"
+            "Shadow": "383838",
+            "Text": "ffffff"
         },
         "Tab": {
             "Background": "b4b5b4",
@@ -107,7 +107,7 @@
         "SubTab": {
             "Background": "4b4a4b",
             "BackgroundSelected": "f18c8e",
-            "Text": "000000"
+            "Text": "ffffff"
         },
         "Banner": {
             "FirstBackground": "f18c8e",
