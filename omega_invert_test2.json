@@ -73,7 +73,7 @@
         "SubMenu": {
             "Background": "2d3e43",
             "Border": "2e474b",
-            "Text": "ffffff"
+            "Text": "000000"
         },
         "Toolbox": {
             "HeaderBackground": "b4b5b4",
@@ -105,9 +105,9 @@
             "TextActive": "000000"
         },
         "SubTab": {
-            "Background": "1f1f1f",
-            "BackgroundSelected": "2e2e2e",
-            "Text": "ffffff"
+            "Background": "2d3e43",
+            "BackgroundSelected": "2e474b",
+            "Text": "000000"
         },
         "Banner": {
             "FirstBackground": "f18c8e",
