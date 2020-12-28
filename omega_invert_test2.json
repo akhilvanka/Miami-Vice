@@ -99,8 +99,8 @@
         "Tab": {
             "Background": "b4b5b4",
             "BackgroundSelected": "ffbabc",
-            "BackgroundActive": "2e474b",
-            "BackgroundSelectedAndActive": "2d3e43",
+            "BackgroundActive": "f18c8e",
+            "BackgroundSelectedAndActive": "f18c8e",
             "Text": "000000",
             "TextActive": "000000"
         },
